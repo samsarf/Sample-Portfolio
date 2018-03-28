@@ -1,0 +1,64 @@
+body h4 h3 h2 {
+	font-family: 'Lato', sans-serif;
+	color: #2d3c49;
+	font-weight: 400;
+}
+
+
+hr {
+    background-color: #7d97ad;
+    height: 5px;   
+}
+
+
+
+.text-subtle {
+	color: #7d97ad;
+	padding: 10px 10px 10px 20px;
+}
+
+
+.text-light {
+	font-weight: 300;
+
+}
+
+.text-med { 
+	font-weight: 300;
+}
+
+
+.logo {
+	margin-top: 20px; 
+}
+
+
+.title-margin {
+	margin-top: 20px;
+}
+
+
+.main-title {
+	font-size: 3em;
+}
+
+
+.spacing {
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 15px;
+}
+
+
+.img-spacing {
+	width: 100%;
+	margin: 0 auto;
+}
+
+  
+.img-spacing img {
+    display: inline-block;
+    width: 350px;
+    max-height:auto;
+}
